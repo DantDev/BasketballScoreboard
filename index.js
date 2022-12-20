@@ -36,6 +36,8 @@ function plusThreeGuest() {
 }
 
 function zero() {
-    numOneEl.innerText = 0
-    numTwoEl.innerText = 0
+    num1 = 0
+    num2 = 0
+    numOneEl.innerText = num1
+    numTwoEl.innerText = num2
 }
